@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="walktthrough.gif" width=250><br>
+<img src="walkthrough.gif" width=250><br>
 
 ### Notes
 The main challenge I encountered was getting a status code of 500 when trying to get the JSON object from TMDB. It took a while to fix, and the issue was simply that I needed to uninstall and reinstall the app on the emulator.
